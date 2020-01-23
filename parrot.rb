@@ -4,8 +4,8 @@
 # /parrot.rb 
 
 def parrot(phrase = "parrot")
-  puts "Squawk!"
-  return "Squawk!"
+  puts "Pretty bird!"
+  return "Pretty bird!"
 end
 
 def parrot(string="Squawk!")
